@@ -1,0 +1,34 @@
+{
+  "name": "vscode-bt-feynuus-theme",
+  "displayName": "Feynuus Theme",
+  "description": "Minimal and fresh color theme",
+  "version": "0.0.3",
+  "icon": "icon.png",
+  "publisher": "BanadirTech",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/banadirtech/vscode-feynuus-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Feynuus Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/vscode-bt-feynuus-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "feynuus",
+        "label": "Feynuus Theme Icons",
+        "path": "./themes/vscode-bt-feynuus-icon-theme.json"
+      }
+    ]
+  }
+}
