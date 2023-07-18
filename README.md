@@ -7,7 +7,7 @@ The primary characteristic of the **Feynuus Theme** is its minimalistic approach
 
 ## Screenshots
 
-![Screenshot](https://raw.githubusercontent.com/BanadirTech/vscode-feynuus-theme/main/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/BanadirTech/vscode-feynuus-theme/main/screenshot.PNG)
 
 ## For more information
 
